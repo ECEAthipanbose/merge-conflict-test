@@ -1,9 +1,9 @@
 def greet(name):
-    message = "Hello"
-    return f"{message}, {name}!"
+    message = "Hi there"
+    return f"{message}, {name}! Welcome!"
 
 def calculate(a, b):
-    result = a + b
+    result = a - b
     return result
 
 if __name__ == "__main__":
