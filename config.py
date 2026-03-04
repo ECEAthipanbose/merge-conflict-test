@@ -1,0 +1,4 @@
+DATABASE_URL = "sqlite:///dev.db"
+DEBUG = True
+MAX_CONNECTIONS = 5
+TIMEOUT = 30
