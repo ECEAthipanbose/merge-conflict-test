@@ -2,7 +2,6 @@ from logger import info
 
 def greet(name):
     message = "Hello"
-    info(f"Greeting {name}")
     return f"{message}, {name}! Welcome!"
 
 def calculate(a, b, op="add"):
